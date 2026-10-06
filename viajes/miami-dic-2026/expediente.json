@@ -1,0 +1,137 @@
+{
+  "viaje": {
+    "slug": "miami-dic-2026",
+    "titulo": "Miami + Orlando en pareja · 16 dic 2026 – 2 ene 2027",
+    "viajeros": ["Adulto 27 años (conductor, licencia)", "Adulta 26 años (licencia)"],
+    "origen": ["MDE Medellín (preferido)", "BOG Bogotá"],
+    "destino": ["MIA Miami", "FLL Fort Lauderdale"],
+    "fechas": {"salida": "2026-12-16", "regreso_candidatos": ["2026-12-26", "2027-01-02"]},
+    "equipaje": "Artículo personal + equipaje de mano 10 kg por persona",
+    "presupuesto": {"monto": 4000000, "moneda": "COP", "excluye": ["Vuelos Colombia–EE. UU."], "incluye_opcionales": ["Indianápolis", "Key West"]}
+  },
+  "consultado": "2026-10-06 03:04 UTC",
+  "tasa": {"trm": 3308, "trm_fuente": "TRM 2 oct 2026 (dolarhoy.co / Superfinanciera)", "planeacion": 3450, "nota": "TRM + ~4 % de margen de tarjeta/casa de cambio"},
+  "alojamiento_familiar": [
+    "Tía en Doral: noche 16 dic y 24 dic – 1 ene",
+    "Primo en Design District: alternativa 23 dic – 1 ene",
+    "Amigos en Orlando: noches 21 y 22 dic",
+    "Cuñada en Indianápolis (opcional): sin costo de alojamiento ni comida"
+  ],
+  "resumen": [
+    "Vuelo recomendado: Avianca directo MDE→MIA AV32 (16 dic 00:10) y regreso MIA→MDE AV33 (2 ene 05:05): USD 1.010 los dos, ida y vuelta [observado]. Regresar el 2 ene es USD 134 MÁS BARATO que el 26 dic y suma 7 días gratis con la familia.",
+    "La tarifa Light de Avianca en rutas internacionales de las Américas incluye artículo personal + carry-on de 10 kg desde el 27 ene 2026, sin costo extra.",
+    "Airbnb Doral 17–21 dic (4 noches) en edificio con piscina: objetivo ≤ COP 980.000 total con tarifas (precios de tu búsqueda en Airbnb: COP 777.511 – 1.135.870).",
+    "Carro tipo Corolla solo 4 días (20–23 dic), agrupando Zoo Miami, Wekiwa Springs, Orlando y Aventura Mall en un solo bloque. Orlando y Wekiwa se hacen DESPUÉS del Airbnb para no pagar noches sin usar.",
+    "Plan Ajustado ≈ COP 3,7 millones: cabe en el presupuesto. Plan Recomendado ≈ COP 4,2 millones. Key West suma ≈ COP 0,35 M; Indianápolis en avión ≈ COP 2,1 M → no caben sin ampliar el presupuesto."
+  ],
+  "decisiones": [
+    {"tema": "Fecha de regreso", "decision": "2 ene 2027", "porque": "USD 1.010 vs USD 1.144 del 26 dic (ambos directos Avianca). Más días de viaje, más barato, y las noches extra son con familia (sin costo de alojamiento)."},
+    {"tema": "Aeropuerto", "decision": "MDE → MIA directo", "porque": "Medellín es preferido y es el más barato; las opciones vía Bogotá cuestan lo mismo o más y suman 8–14 h. FLL solo aparece con American/Air Canada desde USD 2.285."},
+    {"tema": "Noches de Airbnb", "decision": "17 → 21 dic (4 noches)", "porque": "Según tu pedido. La noche del 16 (llegada 03:35) en casa de tu tía evita pagar una noche que no se usaría."},
+    {"tema": "Orden Orlando/Airbnb", "decision": "Orlando 21–23 dic, después del check-out", "porque": "Ir a Orlando con el Airbnb pago = pagar noches vacías. Wekiwa queda en el camino (Miami → Wekiwa → Orlando)."},
+    {"tema": "Días de carro", "decision": "4 días: recoger 20 dic, devolver 23 dic noche", "porque": "Zoo Miami, Wekiwa, Orlando y Aventura necesitan carro; Dolphin Mall, museos y Design District se resuelven con Uber corto desde Doral/primo."},
+    {"tema": "Conductor", "decision": "Un solo conductor registrado", "porque": "Ambos tienen licencia y >25 años (sin cargo de joven conductor), pero el conductor adicional se cobra por día; registrar uno ahorra ~USD 15/día."},
+    {"tema": "Datos móviles", "decision": "Holafly EE. UU. 1 eSIM (~17 días) + hotspot", "porque": "Ilimitado en el teléfono principal; el hotspot comparte hasta 1 GB/día al otro teléfono, suficiente para mapas y WhatsApp si se usa Wi-Fi en casa."},
+    {"tema": "Indianápolis", "decision": "Opcional, NO incluido en el plan base", "porque": "Avión más barato FLL↔IND 26–30 dic: USD 456 los dos + carry-on de Allegiant (~USD 140) ≈ COP 2,06 M. Tren: no hay directo (≈42 h vía Washington, desde USD 217 por persona). No cabe en COP 4 M."},
+    {"tema": "Key West", "decision": "Opcional (+1 día de carro)", "porque": "Ruta US-1 sin peajes; costo extra ≈ USD 100 (día de carro, gasolina, parqueo). Cabe solo con el Plan Ajustado si se recorta comida/Uber."}
+  ],
+  "vuelos": {
+    "recomendado": {
+      "aerolinea": "Avianca (tarifa Light)",
+      "ida": "AV32 · mié 16 dic 2026 · MDE 00:10 → MIA 03:35 · directo 3h25",
+      "regreso": "AV33 · sáb 2 ene 2027 · MIA 05:05 → MDE 08:25 · directo 3h20",
+      "total_usd": 1010,
+      "por_persona_usd": 505,
+      "enlace": "https://mcp.slicktrip.com/book/bk_2da559ceaab368ed",
+      "nota": "Salir de casa la noche del 15 dic. El enlace de checkout de Avianca dura 24 h; si expira, usar el enlace de búsqueda."
+    },
+    "alternativas": [
+      {"opcion": "Regreso 26 dic (AV32 + AV33)", "total_usd": 1144, "detalle": "Mismos horarios; USD 134 más caro."},
+      {"opcion": "Regreso 2 ene vuelo de la tarde AV31 18:30 → 22:00", "total_usd": 1254, "detalle": "Evita la madrugada; USD 244 más caro."},
+      {"opcion": "Ida de día vía Bogotá: AV9319 MDE 16:00 → BOG, AV6 20:05 → MIA 00:05 (17 dic)", "total_usd": 1021, "detalle": "≈ USD 11 más; llega a medianoche."},
+      {"opcion": "American BOG → DFW → FLL", "total_usd": 2285, "detalle": "No conviene."}
+    ],
+    "busqueda": "https://slicktrip.com/flights?key=MDE_BOG%3BMIA_FLL%3Beconomy%3B2%3B2026-12-16%3B2027-01-02"
+  },
+  "alojamiento": {
+    "objetivo": "Apartamento/estudio completo en Downtown Doral con piscina en el edificio, 17–21 dic, 2 huéspedes, total ≤ COP 980.000 con tarifas",
+    "observado_airbnb": "Mapa de tu búsqueda Airbnb (17–21 dic, 2 huéspedes, precios con todas las tarifas): COP 777.511 · 899.097 · 975.888 · 1.135.870 · 1.609.415",
+    "busqueda_airbnb": "https://www.airbnb.com.co/s/Doral--FL/homes?checkin=2026-12-17&checkout=2026-12-21&adults=2&room_types%5B%5D=Entire%20home%2Fapt&amenities%5B%5D=7",
+    "criterios": ["Anuncio 'Alojamiento entero' (no habitación privada)", "Calificación ≥ 4,7 con ≥ 30 reseñas", "Piscina y parqueo (preguntar si el valet se cobra aparte)", "Cocina para ahorrar en comida", "Cancelación gratuita"],
+    "opciones_slicktrip": [
+      {"nombre": "Studio Unit at Downtown Doral", "total_usd": 920, "rating": "5,0 (12)", "extras": "Piscina exterior, cocina, gimnasio"},
+      {"nombre": "Prime Doral Location | Pool & Gym", "total_usd": 981, "rating": "4,85 (40)", "extras": "Piscina, balcón, cocina"},
+      {"nombre": "Studio Luxury Stay | Downtown Doral", "total_usd": 678, "rating": "5,0 (2)", "extras": "Gimnasio; sin piscina listada"}
+    ],
+    "nota": "Las rentas vistas por SlickTrip (USD 678–981) cuestan 2–3 veces más que lo que muestra Airbnb para las mismas fechas: conviene reservar directo en Airbnb."
+  },
+  "transporte": [
+    {"item": "Carro tipo Corolla (Hertz MIA, recoger dom 20 dic 9:00, devolver mié 23 dic noche)", "detalle": "4 días · estimado USD 60/día con impuestos en temporada alta. Revisar si la tarjeta de crédito cubre el seguro (CDW) para no comprarlo.", "enlace": "https://www.hertz.com/rentacar/reservation/"},
+    {"item": "Peajes", "detalle": "Hertz PlatePass USD 14,99 por día de alquiler (peajes ilimitados). Miami tiene peajes sin efectivo (836/Dolphin Expressway), difícil evitarlos.", "enlace": "https://www.sunpass.com/en/tolls/rentalVehicles.shtml"},
+    {"item": "Gasolina", "detalle": "≈ 650 millas (Zoo, Miami→Wekiwa→Orlando→Aventura→MIA) ÷ 33 mpg × USD 3,30/galón ≈ USD 65"},
+    {"item": "Uber/transporte local", "detalle": "Aeropuerto↔casa de la tía (2 madrugadas), Design District/PAMM, Dolphin Mall"},
+    {"item": "Tren a Orlando (alternativa)", "detalle": "Brightline Miami–Orlando desde USD 79 por persona/trayecto (3 h). Para dos, ida y vuelta ≈ USD 316: más caro que el carro y no llega a Wekiwa.", "enlace": "https://www.gobrightline.com"}
+  ],
+  "itinerario": [
+    {"fecha": "Mar 15 dic (noche)", "plan": "Ir al aeropuerto JMC de Rionegro (vuelo 00:10).", "dormir": "Avión"},
+    {"fecha": "Mié 16 dic", "plan": "Llegada MIA 03:35 · Uber a casa de la tía · descanso · tarde: Dolphin Mall (a 10 min).", "dormir": "Tía (Doral)"},
+    {"fecha": "Jue 17 dic", "plan": "Design District + ICA Miami (gratis) con el primo · PAMM gratis jueves 5–9 p. m. · check-in Airbnb.", "dormir": "Airbnb Doral"},
+    {"fecha": "Vie 18 dic", "plan": "Día de piscina · mercado en Publix/Aldi para cocinar · noche en CityPlace Doral.", "dormir": "Airbnb Doral"},
+    {"fecha": "Sáb 19 dic", "plan": "Wynwood Walls (gratis) · Bayside / Bayfront Park. Opcional: Frost Science (USD 29,95 c/u). [Si eligen Key West: recoger el carro hoy.]", "dormir": "Airbnb Doral"},
+    {"fecha": "Dom 20 dic", "plan": "Recoger carro en MIA · Zoo Miami (abrir 10:00, llevar agua) · regreso.", "dormir": "Airbnb Doral"},
+    {"fecha": "Lun 21 dic", "plan": "Check-out · Wekiwa Springs State Park (3 h 40 min, USD 6 por carro) · llegar donde los amigos.", "dormir": "Amigos (Orlando)"},
+    {"fecha": "Mar 22 dic", "plan": "Orlando: Disney Springs (entrada libre), Lake Eola, ICON Park (exterior).", "dormir": "Amigos (Orlando)"},
+    {"fecha": "Mié 23 dic", "plan": "Orlando → Aventura Mall por I-95 (en el camino) · devolver el carro en MIA.", "dormir": "Primo / tía"},
+    {"fecha": "24 dic – 1 ene", "plan": "Navidad y Año Nuevo en familia. Opcional: Indianápolis 26–30 dic.", "dormir": "Tía / primo"},
+    {"fecha": "Sáb 2 ene", "plan": "Uber 02:30 a MIA · AV33 05:05 → MDE 08:25.", "dormir": "Casa"}
+  ],
+  "presupuesto": {
+    "nota": "Montos para los dos. Vuelos internacionales excluidos según lo acordado.",
+    "rubros": [
+      {"rubro": "Airbnb Doral 4 noches (con tarifas)", "cop": 975888, "tipo": "observado", "fuente": "Tu búsqueda Airbnb 17–21 dic"},
+      {"rubro": "Carro Corolla 4 días", "usd": 240, "tipo": "estimado", "fuente": "USD 60/día con impuestos, temporada alta"},
+      {"rubro": "PlatePass Hertz 4 días", "usd": 60, "tipo": "observado", "fuente": "USD 14,99/día publicado"},
+      {"rubro": "Peajes (Miami + Turnpike)", "usd": 30, "tipo": "estimado", "fuente": "Tarifas SunPass"},
+      {"rubro": "Gasolina ≈ 650 millas", "usd": 65, "tipo": "estimado", "fuente": "33 mpg, USD 3,30/gal"},
+      {"rubro": "Alimentación (7 días fuera + aporte 10 días en familia)", "usd": 365, "tipo": "estimado", "fuente": "USD 35/día pareja + USD 12/día mercado"},
+      {"rubro": "Holafly EE. UU. ~17 días, 1 eSIM", "usd": 55, "tipo": "estimado", "fuente": "15 días ≈ USD 47,90 en holafly.com"},
+      {"rubro": "Zoo Miami 2 adultos + impuesto 7 %", "usd": 56, "tipo": "observado", "fuente": "USD 25,95 por adulto"},
+      {"rubro": "Wekiwa Springs (por carro)", "usd": 6, "tipo": "observado", "fuente": "floridastateparks.org"},
+      {"rubro": "Museos PAMM (jueves) e ICA", "usd": 0, "tipo": "observado", "fuente": "Entrada gratis"},
+      {"rubro": "Uber / transporte local", "usd": 60, "tipo": "estimado", "fuente": "2 traslados aeropuerto + 3 trayectos cortos"}
+    ],
+    "escenarios": [
+      {"nombre": "Ajustado", "descripcion": "Airbnb de COP 777.511, comida USD 300, Uber USD 40", "ajustes": {"Airbnb Doral 4 noches (con tarifas)": {"cop": 777511}, "Alimentación (7 días fuera + aporte 10 días en familia)": {"usd": 300}, "Uber / transporte local": {"usd": 40}}, "extras_usd": 0},
+      {"nombre": "Recomendado", "descripcion": "Plan base de este informe", "ajustes": {}, "extras_usd": 0},
+      {"nombre": "Recomendado + Key West", "descripcion": "+1 día de carro y PlatePass, gasolina y parqueo", "ajustes": {}, "extras_usd": 100},
+      {"nombre": "Recomendado + Indianápolis", "descripcion": "Allegiant FLL↔IND 26–30 dic USD 456 [observado] + carry-on ~USD 140 [estimado]", "ajustes": {}, "extras_usd": 596}
+    ]
+  },
+  "reservas": [
+    {"orden": 1, "item": "Vuelos Avianca AV32 / AV33 (tarifa Light)", "precio": "USD 1.010 los dos", "enlace": "https://mcp.slicktrip.com/book/bk_2da559ceaab368ed", "cuando": "Esta semana: diciembre sube rápido"},
+    {"orden": 2, "item": "Airbnb Doral 17–21 dic (filtros: alojamiento entero + piscina)", "precio": "≤ COP 980.000", "enlace": "https://www.airbnb.com.co/s/Doral--FL/homes?checkin=2026-12-17&checkout=2026-12-21&adults=2&room_types%5B%5D=Entire%20home%2Fapt&amenities%5B%5D=7", "cuando": "Después de los vuelos; elegir cancelación gratuita"},
+    {"orden": 3, "item": "Hertz MIA, compacto/intermedio (Corolla o similar), 20–23 dic", "precio": "≈ USD 240 + PlatePass", "enlace": "https://www.hertz.com/rentacar/reservation/", "cuando": "Reservar con 'pagar después' y volver a cotizar en noviembre"},
+    {"orden": 4, "item": "Holafly eSIM Estados Unidos (~17 días)", "precio": "≈ USD 55", "enlace": "https://esim.holafly.com/es/esim-usa/", "cuando": "1–2 semanas antes; se activa al llegar"},
+    {"orden": 5, "item": "Zoo Miami (entradas en línea)", "precio": "USD 25,95 + impuesto c/u", "enlace": "https://www.zoomiami.org", "cuando": "Unos días antes"}
+  ],
+  "fuentes": [
+    "SlickTrip – vuelos y rentas en vivo, consultado 2026-10-06 03:04 UTC",
+    "Avianca – tarifa Light incluye carry-on 10 kg en vuelos internacionales en las Américas (avianca.com, noticias corporativas feb 2026)",
+    "Holafly – eSIM EE. UU., hotspot hasta 1 GB/día (esim.holafly.com/es/esim-usa/)",
+    "Florida State Parks – Wekiwa Springs, USD 6 por vehículo",
+    "Zoo Miami – USD 25,95 adulto + 7 % impuesto",
+    "PAMM – entrada gratis jueves 5–9 p. m.",
+    "Brightline – Miami–Orlando desde USD 79",
+    "Amtrak / rome2rio – Miami–Indianápolis ≈ 42 h, desde USD 217",
+    "TRM 2 oct 2026: COP 3.307,73"
+  ],
+  "pendientes": [
+    "Confirmar el anuncio exacto de Airbnb (Airbnb bloquea consultas automáticas desde este servidor; los precios salen de tu captura del 17–21 dic).",
+    "Cotizar Hertz en vivo con las fechas (precio actual marcado como estimado).",
+    "Verificar que la piscina de Wekiwa esté abierta (cierra por calidad del agua o aforo).",
+    "Confirmar ESTA/visa vigente y fecha de vencimiento de pasaportes y licencias."
+  ],
+  "imagenes": [
+    {"archivo": "img/airbnb_doral_captura.png", "pie": "Tu búsqueda de Airbnb en Doral, 17–21 dic: más de 1.000 alojamientos; totales de COP 777.511 a 1.609.415 con tarifas."}
+  ]
+}
